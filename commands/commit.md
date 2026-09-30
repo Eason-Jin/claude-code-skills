@@ -1,7 +1,6 @@
 ---
 name: commit
 description: Create a git commit following conventional commits format. Use when ready to commit staged changes with a well-structured message.
-disable-model-invocation: true
 ---
 
 # Commit Command

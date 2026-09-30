@@ -2,7 +2,6 @@
 name: branch
 description: Create a git branch following GitFlow naming conventions. Use when starting new work that requires a feature, bugfix, hotfix, or release branch.
 argument-hint: "[type/description]"
-disable-model-invocation: true
 ---
 
 # Branch Command
